@@ -1,6 +1,6 @@
-# apimodels.app
+# APIMODELS
 
-apimodels.app is a multi-model API gateway: one API key and OpenAI- and Anthropic-compatible endpoints for about 150 image, video, audio and language models, including Claude Opus 5.5, Claude Sonnet 5.5, GPT Image 2, Seedance 2.5, MiniMax H3, Kling V3, Wan 3.0 and Nano Banana. Billing is pay per use, and failed calls are not charged.
+APIMODELS (apimodels.app) is a reliable, affordable multimodal AI API gateway for indie developers, creators, small studios and the AI agents they run. One API key and OpenAI- and Anthropic-compatible endpoints reach 180+ image, video, audio and language models, including Claude Opus 5.5, Claude Sonnet 5.5, GPT Image 2, Seedance 2.5, MiniMax H3, Kling V3, Wan 3.0 and Nano Banana. Major models fail over across providers automatically, failed calls are not charged, and an MCP server connects it to Claude Code, Cursor and Codex. Billing is pay per use.
 
 [Website](https://apimodels.app) · [Models](https://apimodels.app/models) · [API docs](https://apimodels.app/docs)
 
@@ -27,5 +27,5 @@ Each library credits the people who wrote the prompts and links to the original 
 
 - [apimodels-api-demo](https://github.com/apimodels/apimodels-api-demo): curl, Node.js and Python examples for image, video, chat and audio models.
 - [apimodels-apidocs](https://github.com/apimodels/apimodels-apidocs): base URL per SDK and the native endpoints.
-- [apimodels-mcp](https://github.com/stimQQ/apimodels-mcp): MCP server (npm `apimodels-mcp`), listed in the official MCP Registry.
+- [apimodels-mcp](https://github.com/apimodels/apimodels-mcp): MCP server (npm `apimodels-mcp`), listed in the official MCP Registry.
 - [apimodels-skill](https://github.com/stimQQ/apimodels-skill): Agent Skills for Claude Code and other coding agents.
